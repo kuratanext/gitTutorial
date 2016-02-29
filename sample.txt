@@ -1,2 +1,4 @@
 ハローワールド
 my first git
+
+gitはむずかしい
